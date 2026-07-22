@@ -13,7 +13,7 @@
           "id": "pdj-speciale",
           "price": 69,
           "badge": "topVentes",
-          "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=600&h=400&fit=crop&q=80",
+          "image": "https://glovo.dhmedia.io/image/global-menu-service/AI-GEN-PRODUCT-IMAGES/SPECIALE_9235884?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6MzIwLCJoZWlnaHQiOjMyMH19LHsid2VicCI6e319XQ==",
           "name": { "fr": "Petit Déjeuner Spéciale", "ar": "فطور خاص", "es": "Desayuno Especial" },
           "description": {
             "fr": "Croque spéciale, keso, pavo, coupe de fruits, boissons chaudes",
@@ -36,7 +36,7 @@
           "id": "pdj-espagnol",
           "price": 65,
           "badge": "topVentes",
-          "image": "https://images.unsplash.com/photo-1769706722493-36e1f9f6dc10?w=600&h=400&fit=crop&q=80",
+          "image": "https://glovo.dhmedia.io/image/global-menu-service/AI-GEN-PRODUCT-IMAGES/ESPAGNOL_3048885?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6MzIwLCJoZWlnaHQiOjMyMH19LHsid2VicCI6e319XQ==",
           "name": { "fr": "Petit Déjeuner Espagnol", "ar": "فطور إسباني", "es": "Desayuno Español" },
           "description": {
             "fr": "Toast grillé, tomate fraîche, keso manchego, thon, olives, huile d'olive, boisson chaude, jus naturel, natillas, tortilla",
@@ -475,7 +475,7 @@
         {
           "id": "jus-orange",
           "price": 30,
-          "image": "https://lh3.googleusercontent.com/food/AFj1U70oYtaiDrXtIoxNozOjDxJEVEu9o6FdKolLXRJ-xCuoY-rV-hZpP6unaycyNU06lWsuWuB48W-0uBte3E-NZ8Xng_yrdUYSX2hEJWwFYqistGRIPREXrpvtkMfhzQJkSIDpswv9hywRVSN15jFtHLGMcJ59sJYtenBw6SBcggw=s680-w680-h510-rw",
+          "image": "https://glovo.dhmedia.io/image/global-menu-service/AI-GEN-PRODUCT-IMAGES/Jus_Orange_2214657?t=W3sicmVzaXplIjp7Im1vZGUiOiJmaXQiLCJ3aWR0aCI6MzIwLCJoZWlnaHQiOjMyMH19LHsid2VicCI6e319XQ==",
           "name": { "fr": "Jus Orange", "ar": "عصير برتقال", "es": "Zumo de Naranja" },
           "description": {
             "fr": "Jus d'orange frais",
