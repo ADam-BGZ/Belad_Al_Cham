@@ -73,12 +73,16 @@ body {
 [dir="rtl"] body,
 [dir="rtl"] .item-name,
 [dir="rtl"] .item-desc,
+[dir="rtl"] .item-dots,
+[dir="rtl"] .item-price,
+[dir="rtl"] .item-price-unit,
+[dir="rtl"] .badge,
 [dir="rtl"] .category-title,
 [dir="rtl"] .lang-selector button,
 [dir="rtl"] .search-input,
-[dir="rtl"] .badge,
 [dir="rtl"] .nav-pills button,
-[dir="rtl"] .back-to-top {
+[dir="rtl"] .back-to-top,
+[dir="rtl"] .footer-name {
   font-family: var(--font-body-ar);
 }
 
@@ -365,9 +369,11 @@ h3 { font-size: 1.125rem; }
   color: var(--color-gold);
 }
 
-.category-medallion svg {
+.category-medallion svg,
+.category-medallion .category-icon {
   width: 24px;
   height: 24px;
+  color: var(--color-gold);
 }
 
 .category-title-block {
@@ -458,10 +464,6 @@ h3 { font-size: 1.125rem; }
   color: var(--color-text-secondary);
   line-height: 1.5;
   margin-top: var(--space-xs);
-}
-
-[dir="rtl"] .item-desc {
-  font-family: var(--font-body-ar);
 }
 
 /* ============================================

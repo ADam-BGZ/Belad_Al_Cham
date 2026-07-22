@@ -5,9 +5,11 @@
   const ICONS = {};
 
   function loadIcon(name) {
-    if (ICONS[name]) return ICONS[name];
-    const svg = document.querySelector(`#icon-${name}`);
-    ICONS[name] = svg ? svg.outerHTML : '';
+    if (ICONS[name] !== undefined) return ICONS[name];
+    const sym = document.querySelector(`#icon-${name}`);
+    if (!sym) { ICONS[name] = ''; return ''; }
+    const vb = sym.getAttribute('viewBox') || '0 0 24 24';
+    ICONS[name] = `<svg class="category-icon" viewBox="${vb}" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><use href="#icon-${name}"/></svg>`;
     return ICONS[name];
   }
 
