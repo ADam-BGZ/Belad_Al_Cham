@@ -7,6 +7,9 @@
   const RTL_LANGS = ['ar'];
 
   function detectLang() {
+    const params = new URLSearchParams(window.location.search);
+    const urlLang = params.get('lang');
+    if (urlLang && SUPPORTED.includes(urlLang)) return urlLang;
     const saved = localStorage.getItem(STORAGE_KEY);
     if (saved && SUPPORTED.includes(saved)) return saved;
     const nav = navigator.language || navigator.userLanguage || '';
