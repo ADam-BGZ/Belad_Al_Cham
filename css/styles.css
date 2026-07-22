@@ -217,6 +217,95 @@ a { color: var(--color-ember); text-decoration: none; }
 .search-input::placeholder { color: var(--color-text-light); }
 .search-input:focus { border-color: var(--color-gold); }
 
+/* Search dropdown */
+.search-dropdown {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  margin-top: 4px;
+  background: var(--color-bg);
+  border: 1px solid var(--color-rule);
+  border-radius: 10px;
+  box-shadow: 0 6px 20px rgba(26,21,18,0.12);
+  z-index: 200;
+  max-height: 320px;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+}
+
+[dir="rtl"] .search-dropdown {
+  left: 0;
+  right: 0;
+}
+
+.search-dropdown-empty {
+  padding: 14px 16px;
+  color: var(--color-text-light);
+  font-family: var(--font-body);
+  font-size: 0.8125rem;
+  text-align: center;
+}
+
+.search-dropdown-item {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 14px;
+  cursor: pointer;
+  transition: background var(--transition-fast);
+  font-family: var(--font-body);
+  font-size: 0.8125rem;
+  color: var(--color-text);
+  border-bottom: 1px solid rgba(0,0,0,0.04);
+}
+
+.search-dropdown-item:last-child { border-bottom: none; }
+
+.search-dropdown-item:hover,
+.search-dropdown-item.active {
+  background: rgba(200,155,60,0.08);
+}
+
+[dir="rtl"] .search-dropdown-item {
+  flex-direction: row-reverse;
+}
+
+.search-dropdown-name {
+  font-weight: 500;
+  flex: 1;
+  min-width: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.search-dropdown-name mark {
+  background: rgba(200,155,60,0.25);
+  color: inherit;
+  border-radius: 2px;
+  padding: 0 1px;
+}
+
+.search-dropdown-cat {
+  font-size: 0.6875rem;
+  color: var(--color-text-light);
+  white-space: nowrap;
+}
+
+.search-dropdown-price {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: var(--color-gold);
+  white-space: nowrap;
+}
+
+[dir="rtl"] .search-dropdown-name,
+[dir="rtl"] .search-dropdown-cat,
+[dir="rtl"] .search-dropdown-price {
+  font-family: var(--font-body-ar);
+}
+
 /* Nav pills */
 .nav-pills {
   position: sticky;
