@@ -250,12 +250,9 @@
       this._hide();
       this._input.value = '';
       this.filter('');
-      /* Scroll to item */
+      /* Scroll to the exact item */
       var offset = document.querySelector('.nav-pills').offsetHeight + 16;
-      var section = item.el.closest('.category-section');
-      if (section) {
-        window.scrollTo({ top: section.offsetTop - offset, behavior: 'smooth' });
-      }
+      window.scrollTo({ top: item.el.offsetTop - offset, behavior: 'smooth' });
       /* Flash the item */
       item.el.style.transition = 'background 0.3s';
       item.el.style.background = 'rgba(200,155,60,0.12)';
