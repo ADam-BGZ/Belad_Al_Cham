@@ -22,11 +22,17 @@
     _scrollPillIntoView(pill) {
       var container = document.querySelector('.nav-pills');
       if (!container || !pill) return;
-      var pillLeft = pill.offsetLeft;
-      var pillWidth = pill.offsetWidth;
-      var containerWidth = container.clientWidth;
-      var target = pillLeft - (containerWidth / 2) + (pillWidth / 2);
-      container.scrollTo({ left: Math.max(0, target), behavior: 'smooth' });
+      var isRTL = document.documentElement.dir === 'rtl';
+      var containerRect = container.getBoundingClientRect();
+      var pillRect = pill.getBoundingClientRect();
+      var offset;
+      if (isRTL) {
+        offset = containerRect.right - pillRect.right - (containerRect.width / 2) + (pillRect.width / 2);
+        container.scrollLeft -= offset;
+      } else {
+        offset = pillRect.left - containerRect.left - (containerRect.width / 2) + (pillRect.width / 2);
+        container.scrollLeft += offset;
+      }
     },
 
     observe() {

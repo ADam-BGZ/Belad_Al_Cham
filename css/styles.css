@@ -156,6 +156,7 @@ a { color: var(--color-ember); text-decoration: none; }
   display: flex;
   justify-content: center;
   gap: 8px;
+  direction: ltr;
 }
 
 .lang-selector button {
