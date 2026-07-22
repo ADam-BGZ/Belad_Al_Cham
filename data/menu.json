@@ -13,6 +13,7 @@
           "id": "pdj-speciale",
           "price": 69,
           "badge": "topVentes",
+          "image": "https://images.unsplash.com/photo-1525351484163-7529414344d8?w=600&h=400&fit=crop&q=80",
           "name": { "fr": "Petit Déjeuner Spéciale", "ar": "فطور خاص", "es": "Desayuno Especial" },
           "description": {
             "fr": "Croque spéciale, keso, pavo, coupe de fruits, boissons chaudes",
@@ -23,6 +24,7 @@
         {
           "id": "pdj-fassi",
           "price": 69,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U70iT0NwHONPfJtj1s_5ArdB5KVj7zFQ2QtjT1t-KkEofQGuPVSD4C4Ok9MfIuL2dFeAUcnMDErdPXSQQxnVNnivaSdORMr7sReCdLeBQOCXOkWacgHpyvbhy8v3YI5fec4U6eY9dlOglCmdg5tHID8uK0gHA963jRy3OcpVcf0=s680-w680-h510-rw",
           "name": { "fr": "Petit Déjeuner Fassi", "ar": "فطور فاسي", "es": "Desayuno Fassi" },
           "description": {
             "fr": "Deux œufs avec du khlii, pain complet, huile d'olive, olives, boissons chaudes, jus nature",
@@ -34,6 +36,7 @@
           "id": "pdj-espagnol",
           "price": 65,
           "badge": "topVentes",
+          "image": "https://images.unsplash.com/photo-1769706722493-36e1f9f6dc10?w=600&h=400&fit=crop&q=80",
           "name": { "fr": "Petit Déjeuner Espagnol", "ar": "فطور إسباني", "es": "Desayuno Español" },
           "description": {
             "fr": "Toast grillé, tomate fraîche, keso manchego, thon, olives, huile d'olive, boisson chaude, jus naturel, natillas, tortilla",
@@ -44,6 +47,7 @@
         {
           "id": "pdj-amsterdam",
           "price": 65,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U71afy8za7qkXL7Z9f40l01J81gDs-iDyBQOl_PSCbGWkDBGacOO0BMNS358OkdJ9iWWhxbr6nJNoQ6XAqw6W0N4o1dlA0GCHhQBHmw8A6O0PzfIwfxM1Fdkxbh8OdrhF21080X1v3ET1CTvwqFO7nXIxYMUcuU0SYDGt6IGFAc=s680-w680-h510-rw",
           "name": { "fr": "Petit Déjeuner Amsterdam", "ar": "فطور أمستردام", "es": "Desayuno Ámsterdam" },
           "description": {
             "fr": "2 toasts, cream cheese, avocat, 2 œufs pochés, keso, boisson chaude, jus naturel",
@@ -54,6 +58,7 @@
         {
           "id": "pdj-tetouani",
           "price": 55,
+          "image": "https://images.unsplash.com/photo-1759216280514-a4d6465d770a?w=600&h=400&fit=crop&q=80",
           "name": { "fr": "Petit Déjeuner Tétouani", "ar": "فطور تطواني", "es": "Desayuno Tetuaní" },
           "description": {
             "fr": "Deux œufs au plat, dinde fumée, keso, fromage blanc, huile d'olive et olives, boissons chaudes, jus nature",
@@ -65,6 +70,7 @@
           "id": "pdj-beldi",
           "price": 55,
           "badge": "topVentes",
+          "image": "https://lh3.googleusercontent.com/food/AFj1U71T_MLRSMKNvNiOE0XuQOVqZzYLEQXk7Mi9Rx_BQVFunr9ARkriVdgW5pExFwFOUKSM1VKCZfMdrBV_G_aCbM3U0iMWW1P3IvhYDWxxz93XMk5LUvApBN80razY4I1ldPc9SS08g3BzzLAQUKRTH3nHk1IWMFR14170Yc4-Iy0=s680-w680-h510-rw",
           "name": { "fr": "Petit Déjeuner Beldi", "ar": "فطور بلدي", "es": "Desayuno Beldi" },
           "description": {
             "fr": "Harcha, baghrir, msemen, jben, beurre, gâteau beldi au fromage, boissons chaudes, jus nature",
@@ -75,6 +81,7 @@
         {
           "id": "pdj-francais",
           "price": 55,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U72TbcqANBSq7eP7z6WkCNHEn6VZ7w0haAWcm9PLKLGhk-uy-aPznPj78bf1S8R0YkejfEBw4Vqug1y-OLq5pftztjLZTnnJb7ZYCagFNxNRNfda_pxprMSbshhZR1f88wGC-PEs8_7MarKOQd3r8u3hllCSWiddfz6C-Vtw5wg=s680-w680-h510-rw",
           "name": { "fr": "Petit Déjeuner Français", "ar": "فطور فرنسي", "es": "Desayuno Francés" },
           "description": {
             "fr": "Pain, viennoiseries, miel, chocolat, confiture, boissons chaudes, jus nature",
@@ -85,6 +92,7 @@
         {
           "id": "pdj-kids",
           "price": 42,
+          "image": "https://images.unsplash.com/photo-1504754524776-8f4f37790ca0?w=600&h=400&fit=crop&q=80",
           "name": { "fr": "Petit Déjeuner Kids", "ar": "فطور الأطفال", "es": "Desayuno Infantil" },
           "description": {
             "fr": "Corn flakes, toast fromage, petit pain, jus d'orange, boisson",
@@ -102,6 +110,7 @@
         {
           "id": "croque-special",
           "price": 35,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U72grMFrDO3ilVzmEtiWB429H6t4YVTFUe82InB43BzWeHjo7_FIcPg0US73mCrt_lK5ssxrxLJb-xLUIuMd3J5ovC2lDwNeAK_VAhlnevXYnkhLzI04Bq18DxJCz-ZVhCBRHiMm1IRXFXFWyWcFy7CDiCgVngPO8rBDLCkJjg=s680-w680-h510-rw",
           "name": { "fr": "Croque Spécial", "ar": "كروك موسيو خاص", "es": "Croque Especial" },
           "description": {
             "fr": "Croque-monsieur spécial garni",
@@ -112,6 +121,7 @@
         {
           "id": "croque-normal",
           "price": 27,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U72grMFrDO3ilVzmEtiWB429H6t4YVTFUe82InB43BzWeHjo7_FIcPg0US73mCrt_lK5ssxrxLJb-xLUIuMd3J5ovC2lDwNeAK_VAhlnevXYnkhLzI04Bq18DxJCz-ZVhCBRHiMm1IRXFXFWyWcFy7CDiCgVngPO8rBDLCkJjg=s680-w680-h510-rw",
           "name": { "fr": "Croque Normal", "ar": "كروك موسيو عادي", "es": "Croque Normal" },
           "description": {
             "fr": "Croque-monsieur classique",
@@ -129,6 +139,7 @@
         {
           "id": "crepe-nutella-banane",
           "price": 55,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U71I12wt_g_jl-xir9AT3haq068A_pDbE349oyFzN1K2EU_NpItmbKmsf91phW5d8-2TtLTCHM-PtWYE07x0TyfPrLA0HhQx7hFIpZEsVtJEx_gN18kgVfO4y6yuieBJcuXrpTwW6_TIgZk9UU4wdB-FxtYMTFJ-q2_vr8yFjLg=s1360-w1360-h1020-rw",
           "name": { "fr": "Crêpe Nutella Banane", "ar": "كريب نوتيلا وموز", "es": "Crepe Nutella y Plátano" },
           "description": {
             "fr": "Crêpe garnie de nutella et banane",
@@ -139,6 +150,7 @@
         {
           "id": "crepe-lotus",
           "price": 55,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U71ULZp02mzPlSWpxdTOPJ0swW7YBXd7UV9reXbswzgOZcOSBTzeCVevMHYhf0g9rBZ4hRIvVQFTV99-3UilMma47MvNULddbi-jCFBwJIwi32LWZe4uI0094pvpkMDyte4HiQ9MPWXBNLRubj7Wd_UGEdUt4jCNS_R4NNyvEQ=s680-w680-h510-rw",
           "name": { "fr": "Crêpe Lotus", "ar": "كريب لوتس", "es": "Crepe Lotus" },
           "description": {
             "fr": "Crêpe à la pâte de spéculoos lotus",
@@ -149,6 +161,7 @@
         {
           "id": "crepe-caramel",
           "price": 49,
+          "image": "https://images.unsplash.com/photo-1755594492462-297f15cb4b3?w=600&h=400&fit=crop&q=80",
           "name": { "fr": "Crêpe Caramel", "ar": "كريب كراميل", "es": "Crepe de Caramelo" },
           "description": {
             "fr": "Crêpe au caramel",
@@ -159,6 +172,7 @@
         {
           "id": "crepe-amlou",
           "price": 49,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U70N4A0PIT6Lt_qqg8f7CPyID9pbGf8ni3iJB0IyJd3KiCiDjNqNhGRrbn94zyCrGKw4FNgwCpFu0oUtPDy1CbU6btdywr3G4B4BPlYL6wQmreC8pPs5PuiIllZ7Y8V3MbgICYoXzvlcD6zkGRuvjKbMS28Uq5jhQ7KxMbzmyyk=s680-w680-h510-rw",
           "name": { "fr": "Crêpe Amlou", "ar": "كريب أملو", "es": "Crepe de Amlou" },
           "description": {
             "fr": "Crêpe à l'amlou",
@@ -169,6 +183,7 @@
         {
           "id": "crepe-nutella",
           "price": 42,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U71I12wt_g_jl-xir9AT3haq068A_pDbE349oyFzN1K2EU_NpItmbKmsf91phW5d8-2TtLTCHM-PtWYE07x0TyfPrLA0HhQx7hFIpZEsVtJEx_gN18kgVfO4y6yuieBJcuXrpTwW6_TIgZk9UU4wdB-FxtYMTFJ-q2_vr8yFjLg=s1360-w1360-h1020-rw",
           "name": { "fr": "Crêpe Nutella", "ar": "كريب نوتيلا", "es": "Crepe de Nutella" },
           "description": {
             "fr": "Crêpe garnie de nutella",
@@ -177,8 +192,21 @@
           }
         },
         {
+          "id": "crepe-belad-cham",
+          "price": 69,
+          "badge": "topVentes",
+          "image": "https://lh3.googleusercontent.com/food/AFj1U71VgIwSpfwgj4kvDwE4umFsr3C-LixEkf-t3UQ3g0zllcRZoC_fEqOuhrxGjCxpRHkJdsdB09EkJ7aSUWWa9EBLEU3BBwtJgGkE5iEaFmE7RtKnBEkIDcCubWofRR0PGotDVPRZWWVLy4jR3wComrjAtPLE9SdO-DvAXSjUKQ=s1360-w1360-h1020-rw",
+          "name": { "fr": "Crêpe Belad Cham", "ar": "كريب بلد الشام", "es": "Crepe Belad Cham" },
+          "description": {
+            "fr": "Crêpe signature Belad Cham",
+            "ar": "كريب مميز بلد الشام",
+            "es": "Crepe signature Belad Cham"
+          }
+        },
+        {
           "id": "crepe-miel",
           "price": 42,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U70k_cyZOrdrGq420UQ7ZSAOoiPlf0YIOQzjwjZ1Nqq1TmoDSU1Z3M9C9thCQ7VP2xaOTmDUmnHrQor6phCRwGZIwXnhT8uzIrJrXG84mXoSrXrs9gkehtnnQL618Ni7KCuCMOJ4shuOSavyvSUiAMb9w2nro6oXApqc9YgQyas=s680-w680-h510-rw",
           "name": { "fr": "Crêpe au Miel", "ar": "كريب بالعسل", "es": "Crepe de Miel" },
           "description": {
             "fr": "Crêpe au miel",
@@ -196,6 +224,7 @@
         {
           "id": "crepe-viande-hachee",
           "price": 69,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U72pnT6RSaucLcFOYsVe7Q7_2iswW884OGb7HIHNGc66s3pMHGiEaL4zmj8SwyUTH5v7z4_G8-10WcpZqxwqSL8Pvwir9LJ1kbdSFa5zgbmR15yRj8FI6WVvMh6qMp-Fj8tux562fPFuMMyLal580a9Ph6XyVSYOxxj-d6HJ-Fg=s680-w680-h510-rw",
           "name": { "fr": "Crêpe Viande Hachée", "ar": "كريب باللحم المفروم", "es": "Crepe de Carne Picada" },
           "description": {
             "fr": "Crêpe salée à la viande hachée",
@@ -206,6 +235,7 @@
         {
           "id": "crepe-poulet-champignons",
           "price": 59,
+          "image": "https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=600&h=400&fit=crop&q=80",
           "name": { "fr": "Crêpe Poulet & Champignons", "ar": "كريب بالدجاج والفطر", "es": "Crepe de Pollo y Champiñones" },
           "description": {
             "fr": "Crêpe salée au poulet et champignons",
@@ -216,6 +246,7 @@
         {
           "id": "crepe-dinde-fumee",
           "price": 55,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U72pnT6RSaucLcFOYsVe7Q7_2iswW884OGb7HIHNGc66s3pMHGiEaL4zmj8SwyUTH5v7z4_G8-10WcpZqxwqSL8Pvwir9LJ1kbdSFa5zgbmR15yRj8FI6WVvMh6qMp-Fj8tux562fPFuMMyLal580a9Ph6XyVSYOxxj-d6HJ-Fg=s680-w680-h510-rw",
           "name": { "fr": "Crêpe Dinde Fumée", "ar": "كريب بديك رومي مدخن", "es": "Crepe de Pavo Ahumado" },
           "description": {
             "fr": "Crêpe salée à la dinde fumée",
@@ -226,6 +257,7 @@
         {
           "id": "crepe-fromage",
           "price": 49,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U71fj-94Wnjj5Wex1_Wsg-0jw0Z-uOsuZ6xzgWor41Ww4Qj__kOFa2kBxZUD5-o_73OGP1ReKndXiMpDkKB3J5kUm7IpNFRtgBpbpgVd23CPH8xH_1PfTP_rN5I7HzViP0N7mzjHdplQR5CO2nu_BtcKMoTerdhzpcJ_qvNdJ8E=s680-w680-h510-rw",
           "name": { "fr": "Crêpe Fromage", "ar": "كريب بالجبن", "es": "Crepe de Queso" },
           "description": {
             "fr": "Crêpe salée au fromage",
@@ -243,6 +275,7 @@
         {
           "id": "gaufre-nutella",
           "price": 49,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U70aMwnigIoDez03v3hVkkf5xksHoFTVMDjg1LGhNuYaKsDiBjo59G6LzNUe-ORN3BKgxA1ie71KDC9tD-QCuinlRhjalcQwh_Dai1SEJRdiyxfYC0XmCzTr3_kFSaYcshopgVHbcHQ1BBQK56VmEB3Fi_pGoW2Rw8Oosz47KVk=s680-w680-h510-rw",
           "name": { "fr": "Gaufre Nutella", "ar": "وافل نوتيلا", "es": "Gofre de Nutella" },
           "description": {
             "fr": "Gaufre au nutella",
@@ -253,6 +286,7 @@
         {
           "id": "gaufre-caramel",
           "price": 49,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U704AGX0qq7UjD3Xi2dcf3YNB91dvih3bmvHi_LWVFDJl2kg1xIHuSLFrdg92-oSA2Hhl_COftdh5L677bWzojY04HgS3CZbu_8LAgtSN57dzTK7_bT4XgloC_RDHP_4Ukj6-bBzE0P_Xncj0QMZxi8T4KS1soiDg9ROg-r3yvk=s680-w680-h510-rw",
           "name": { "fr": "Gaufre Caramel", "ar": "وافل كراميل", "es": "Gofre de Caramelo" },
           "description": {
             "fr": "Gaufre au caramel",
@@ -263,6 +297,7 @@
         {
           "id": "gaufre-lotus",
           "price": 49,
+          "image": "https://images.unsplash.com/photo-1763219804273-2023f5718f69?w=600&h=400&fit=crop&q=80",
           "name": { "fr": "Gaufre Lotus", "ar": "وافل لوتس", "es": "Gofre Lotus" },
           "description": {
             "fr": "Gaufre à la pâte de spéculoos lotus",
@@ -280,6 +315,7 @@
         {
           "id": "salade-fruits",
           "price": 55,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U70cz2l7tM9xglG9Y2WhEJ77LLj9BRjeqFJOjkciKHLSfMx4cWvNg_Cj0wUYLdx8MN3K7FjEzb1Q6VoPLkDz0Jrz1pr1qGITMVdDPwKqelyoXtyM_gNKNU_gM7hBCvx4w02DXFW1vrSM_WcUz-76g0Y3GSmcJFWtx9b6_CgjyVQ=s680-w680-h510-rw",
           "name": { "fr": "Salade De Fruits", "ar": "سلطة فواكه", "es": "Ensalada de Frutas" },
           "description": {
             "fr": "Salade de fruits frais",
@@ -290,6 +326,7 @@
         {
           "id": "mhalabia",
           "price": 25,
+          "image": "https://images.unsplash.com/photo-1488477181946-6428a0291777?w=600&h=400&fit=crop&q=80",
           "name": { "fr": "Mhalabia", "ar": "محلبية", "es": "Mhalabia" },
           "description": {
             "fr": "Dessert traditionnel au lait parfumé",
@@ -307,6 +344,7 @@
         {
           "id": "croissant-dubai",
           "price": 55,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U70bX-fsGdEvjECtqytD-I4gbV6jvehKs1iu8dOfRYUd26BB_DyoDZKCh-8Hl7EPpfoXVD_JLaPT_HozHGMFJlsgwccdv0wnxem-Yxckgm30_SdSh9SIv2Dg8XORguUishXXwG3D5L7_unGYeeus2_tTGfh69jcWa3m9gap0nsI=s680-w680-h510-rw",
           "name": { "fr": "Croissant Dubaï", "ar": "كرواسون دبي", "es": "Croissant Dubái" },
           "description": {
             "fr": "Croissant façon Dubaï",
@@ -317,6 +355,7 @@
         {
           "id": "dubai-chocolate-coupe",
           "price": 55,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U70pYEo80qDzuNYXjCkO88Px3OmMTJY9zAr4GnFTKsp5jDmZZ8lg8K0hEsaxO-dj3taXY0kvfjGmUyyPMcHPfItimrIxAQiw27YG9IQU_8MnRQL_kwK1PfiLkCKYN1odcB5A02Iish1XpQB_0D7vF4j0Wlg_Bj5gp-UTq5H7RDA=s680-w680-h510-rw",
           "name": { "fr": "Coupe Chocolat Dubaï", "ar": "كأس شوكولاطة دبي", "es": "Copa de Chocolate Dubái" },
           "description": {
             "fr": "Coupe chocolat façon Dubaï",
@@ -334,11 +373,34 @@
         {
           "id": "kunafa",
           "price": 29,
+          "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/K%C3%BCnefe.jpg/330px-K%C3%BCnefe.jpg",
           "name": { "fr": "Kunafa", "ar": "كنافة", "es": "Kunafa" },
           "description": {
             "fr": "Spécialité orientale kunafa",
             "ar": "حلوى شرقية الكنافة",
             "es": "Especialidad oriental kunafa"
+          }
+        },
+        {
+          "id": "layali-loubnan",
+          "price": 29,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U72aCHWbZA4wx3lBS_MsTeYOhXBZ2h8oMsQK6xzDjPVL4pNWXqBX8W_s_8AluM3Tyek5iGqd8EP0m05ola8N-95pOEzkzHmVE7lDKADoyyD2UURD5CRfSRnnlzt-SpfQgu0O9FEMraX8IprXF1Eev-KB6MbkpUS3dkkT3xcBceo=s1360-w1360-h1020-rw",
+          "name": { "fr": "Layali Loubnan", "ar": "ليالي لبنان", "es": "Layali Loubnan" },
+          "description": {
+            "fr": "Dessert libanais layali loubnan",
+            "ar": "حلوى لبنانية ليالي لبنان",
+            "es": "Postre libanés layali loubnan"
+          }
+        },
+        {
+          "id": "basbousa",
+          "price": 20,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U72dP-GeitcnT5QxOlcYaCp2970ECNsTpL89pWaaAh_AdDS21tJvZjErVqTQDNy2YBla-kI3rSr-Q0Lqa117rjlFXB0EopphETirAn_sUUz7PxlyJRT-bSmIYnlXRsBleEiXYGuwqLCe0N4dGgYuGd0a2rRYJDgJtw9obbdheA=s1360-w1360-h1020-rw",
+          "name": { "fr": "Basbousa", "ar": "بسبوسة", "es": "Basbousa" },
+          "description": {
+            "fr": "Gâteau oriental à la semoule basbousa",
+            "ar": "كعكة شرقية بالسميد بسبوسة",
+            "es": "Pastel oriental de sémola basbousa"
           }
         }
       ]
@@ -351,6 +413,7 @@
         {
           "id": "milkshake-oreo",
           "price": 42,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U71jZXQotLOx-nw7l7GaE4qZzuQBRKU6tuRt9c6xPjXXXDKDFj-w_UfPoYaQj9fC6LwBNiGmbMblENZ7CAqWkeBmQ-ZzFC_pBE9-CLn6AcetGUGWnVpPMpk7a6e4wtsjvgmxpIf528gGc0lx7SH_7eJedcp-EK9mxyuepar5PCg=s680-w680-h510-rw",
           "name": { "fr": "Milkshake Oreo", "ar": "ميلك شيك أوريو", "es": "Batido de Oreo" },
           "description": {
             "fr": "Milkshake à l'oreo",
@@ -361,6 +424,7 @@
         {
           "id": "milkshake-fraise",
           "price": 42,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U703AxSJaBaB99Ui1LU53-XW7StVzh9v0xunhsH8a_FkpT_dT7_Ukzon4Kf96KqNm02sPeWpnqh5YCI0aK3EIgtChPceZyhqxOGHU0sIZJf4imG6jPnt3FQYWR5_njFNz5DbSCdrbKCDvbn6tZHrIAKF9-PjampFfJAVJ-dP6ao=s680-w680-h510-rw",
           "name": { "fr": "Milkshake Fraise", "ar": "ميلك شيك فراولة", "es": "Batido de Fresa" },
           "description": {
             "fr": "Milkshake à la fraise",
@@ -378,6 +442,7 @@
         {
           "id": "jus-mangue",
           "price": 42,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U70hXt2-LqnQfdgX3Eqcjfzvt9tAoevz-0F07uUw0Se5ObgamrdbapJWQ9bY13yvOujCsgaLLuyOM9tqr_RDouPsrdzzq442qYQlnhZBwC_B-sW0rVtjUd80JWSu_oqciqR5XU1Z-OJ62DGNAR7mYkD-tp6fVjbdTE3XVcdCp0s=s680-w680-h510-rw",
           "name": { "fr": "Jus Mangue", "ar": "عصير مانجو", "es": "Zumo de Mango" },
           "description": {
             "fr": "Jus de mangue frais",
@@ -388,6 +453,7 @@
         {
           "id": "jus-ananas",
           "price": 42,
+          "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=600&h=400&fit=crop&q=80",
           "name": { "fr": "Jus Ananas", "ar": "عصير أناناس", "es": "Zumo de Piña" },
           "description": {
             "fr": "Jus d'ananas frais",
@@ -398,6 +464,7 @@
         {
           "id": "jus-avocat",
           "price": 42,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U70oYtaiDrXtIoxNozOjDxJEVEu9o6FdKolLXRJ-xCuoY-rV-hZpP6unaycyNU06lWsuWuB48W-0uBte3E-NZ8Xng_yrdUYSX2hEJWwFYqistGRIPREXrpvtkMfhzQJkSIDpswv9hywRVSN15jFtHLGMcJ59sJYtenBw6SBcggw=s680-w680-h510-rw",
           "name": { "fr": "Jus Avocat", "ar": "عصير أفوكادو", "es": "Zumo de Aguacate" },
           "description": {
             "fr": "Jus d'avocat frais",
@@ -408,6 +475,7 @@
         {
           "id": "jus-orange",
           "price": 30,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U70oYtaiDrXtIoxNozOjDxJEVEu9o6FdKolLXRJ-xCuoY-rV-hZpP6unaycyNU06lWsuWuB48W-0uBte3E-NZ8Xng_yrdUYSX2hEJWwFYqistGRIPREXrpvtkMfhzQJkSIDpswv9hywRVSN15jFtHLGMcJ59sJYtenBw6SBcggw=s680-w680-h510-rw",
           "name": { "fr": "Jus Orange", "ar": "عصير برتقال", "es": "Zumo de Naranja" },
           "description": {
             "fr": "Jus d'orange frais",
@@ -425,60 +493,70 @@
         {
           "id": "coca-cola-zero-25",
           "price": 20,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U72H56poBnCFTvotTBfXfxVjUHba9f2H-qLXqLSSiAYWFK6nt68MplGmScYYyhwmFcfK-5FyKdDPTATBh06ebqBPJOadWjmLS0285IGkgDOGhsa3-FU9aB9wVkflWS7o9d-y_PJVHyEBtss7ZLjZ6L-QeeMrZuN3li-jdEEnHCw=s680-w680-h510-rw",
           "name": { "fr": "Coca-Cola Zero - 25cl", "ar": "كوكا كولا زيرو - 25 سل", "es": "Coca-Cola Zero - 25cl" },
           "description": { "fr": "Boisson gazeuse", "ar": "مشروب غازي", "es": "Refresco con gas" }
         },
         {
           "id": "coca-cola-25",
           "price": 20,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U70yo4fbcE8ZfqKjjKPwo0wb0vvuwOYpH2izjDOYd31Ugx1vYTMSWVRJQWFJdjp_hqPfnjW5HWjorRYZlf2_4vxZAnVknMH5xY7iyzXNT-TRs2g-XKob6gG89aGAxGnIRvFKXcHICcKvzvQZdbu_AZRnBf7FRVNByAlna_lYQ40=s680-w680-h510-rw",
           "name": { "fr": "Coca-Cola - 25cl", "ar": "كوكا كولا - 25 سل", "es": "Coca-Cola - 25cl" },
           "description": { "fr": "Boisson gazeuse", "ar": "مشروب غازي", "es": "Refresco con gas" }
         },
         {
           "id": "sidi-ali-50",
           "price": 20,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U702n0GRpnbd5j6ofwJ_sSM5LcdysoTBAKLbAVEzcw8QTILUvzK9hvdFSZeX1uV_PlxNC3tpJfw-7lZ8TWfYmQs42kIuYEGsIbcLoDZvlIgXxfHv16eM0BllgZnwgnTSKNj3GepMvtfMdO8TUv-5QHkuAgJaqCAy8f3rmtmMAg=s680-w680-h510-rw",
           "name": { "fr": "Sidi Ali 50cl", "ar": "سيدي علي 50 سل", "es": "Sidi Ali 50cl" },
           "description": { "fr": "Eau minérale", "ar": "مياه معدنية", "es": "Agua mineral" }
         },
         {
           "id": "sprite-25",
           "price": 20,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U70UeBaPhPWjE5Lqx_bvT5wL5MKqnFZCl1wS4kNOX5aB5zjEADNT9aowtOfpC_2ojRS1wtzB_0egUferUCm3nMQRjkiuxjs8MUj5lms3UfcPjLGUADbfKOBMqOyvG0Hanw87J_rM2BEVh24NAAEmjb0n_RpA0HBchetCQklpzAg=s680-w680-h510-rw",
           "name": { "fr": "Sprite Classique - 25cl", "ar": "سبرايت كلاسيك - 25 سل", "es": "Sprite Clásico - 25cl" },
           "description": { "fr": "Boisson gazeuse", "ar": "مشروب غازي", "es": "Refresco con gas" }
         },
         {
           "id": "fanta-citron-25",
           "price": 20,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U72AZw1SRO7zlyfTBB0g3wyx_yYKXuYmyj70eppTpeghFokldGWnyXp8eUPSS__22kCtRZPfVvUQgCp7Gsl5KqJ5f2agumZTGvsLXTSthYXeg4Wi7OvtZY8uFx-7vV0pEFbW3_wXyNrS96LORHnWme33qBwgvUF05x96axdurXc=s680-w680-h510-rw",
           "name": { "fr": "Fanta Citron - 25cl", "ar": "فانتا ليمون - 25 سل", "es": "Fanta Limón - 25cl" },
           "description": { "fr": "Boisson gazeuse", "ar": "مشروب غازي", "es": "Refresco con gas" }
         },
         {
           "id": "fanta-orange-25",
           "price": 20,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U72VnjX3VruzxDa8IRp8cchR6KHeHnaAm8z_EPgKV4UiNMzsZoClbIFfuyve-NSzIa0cZPSetp2fF1ArCm-2-ld8id7JQ0JAU8HV3f-GPeeN9r61UktGzEJbDMIj2yCBdTmgD-mD-IZAxEWcez1WlKqZF-2CdQ1KklgypE8b7qk=s680-w680-h510-rw",
           "name": { "fr": "Fanta Orange - 25cl", "ar": "فانتا برتقال - 25 سل", "es": "Fanta Naranja - 25cl" },
           "description": { "fr": "Boisson gazeuse", "ar": "مشروب غازي", "es": "Refresco con gas" }
         },
         {
           "id": "poms-pomme-25",
           "price": 20,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U71gDrQgFY_q1zJxiO-JQs6T9u70_pMXt50nlyszMqqW1FJkgViPWCBPaKLWF333Xr6NYd3U_pQchsiPgDVjhaqL-rFWxGju7Adr_dH8nux_Kdqv20NjmOZu5LwJURwMi77jasqY-mVylaOWbHXP7-AKVth6KxEFpByeXzow_g=s680-w680-h510-rw",
           "name": { "fr": "Pom's Pomme - 25cl", "ar": "بومز تفاح - 25 سل", "es": "Pom's Manzana - 25cl" },
           "description": { "fr": "Boisson gazeuse", "ar": "مشروب غازي", "es": "Refresco con gas" }
         },
         {
           "id": "hawai-tropical-25",
           "price": 20,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U71o15QOLcZkAQaLksZn98Y-YIrI7xP2QXl8XFXHZAqSgMqKsoNrkLK2SHUUshGrSc3nqGAJAEDx55hDV0el-VBnuAa5qaGeMovd1dcDhrhU474_cW6FvIwy_QGu2hwkRsYUHAyC-YfMetKD_aVsagnOvu247x0BT5yuNx-OStQ=s680-w680-h510-rw",
           "name": { "fr": "Hawaï Tropical - 25cl", "ar": "هاواي تروبيكال - 25 سل", "es": "Hawái Tropical - 25cl" },
           "description": { "fr": "Boisson gazeuse", "ar": "مشروب غازي", "es": "Refresco con gas" }
         },
         {
           "id": "rostoy",
           "price": 18,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U71YxvHbMjk4VVEa8e4e4gHgpCVQkSQEVnpsvzvvUYP0Aj33BvGkYU9TUC3_mw-KhYNsOzjlQ5EuEtKe_jgjzK5lVRdINq3nAXtIhCtqgnX_OEGoy7X_X4AbJe67YKa2ogTuzjeD51UN9Yc6sn6t950R3wRv7xvVpRjg3pYbSQ=s680-w680-h510-rw",
           "name": { "fr": "Rostoy", "ar": "روستوي", "es": "Rostoy" },
           "description": { "fr": "Boisson Rostoy", "ar": "مشروب روستوي", "es": "Bebida Rostoy" }
         },
         {
           "id": "oulmes",
           "price": 15,
+          "image": "https://lh3.googleusercontent.com/food/AFj1U72q_gFPFMZRLpma_v2oudB1pl3nlHF7rNlPAyAp9a2hEOPPnT94kolSIH3H3fFcsI-p5Qfoxzpzwi3Um6GV1dHGuISz3sHOXGdwqrvweKJ_qaQJVcWs-wvBU-9pl9fMQZvBKp-YfsebpILZWA_1E7Y4rkGOQrSxN_Ty2KsMxTQ=s680-w680-h510-rw",
           "name": { "fr": "Oulmès", "ar": "أولماس", "es": "Oulmès" },
           "description": { "fr": "Eau minérale gazeuse", "ar": "مياه معدنية غازية", "es": "Agua mineral con gas" }
         }
