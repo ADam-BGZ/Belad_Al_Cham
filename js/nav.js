@@ -7,6 +7,7 @@
       const pills = document.querySelectorAll('.nav-pills button[data-target]');
       pills.forEach(btn => {
         btn.addEventListener('click', () => {
+          this._scrollPillIntoView(btn);
           const target = document.getElementById(btn.dataset.target);
           if (target) {
             const offset = document.querySelector('.nav-pills').offsetHeight + 8;
@@ -18,18 +19,33 @@
       this.observe();
     },
 
+    _scrollPillIntoView(pill) {
+      var container = document.querySelector('.nav-pills');
+      if (!container || !pill) return;
+      var pillLeft = pill.offsetLeft;
+      var pillWidth = pill.offsetWidth;
+      var containerWidth = container.clientWidth;
+      var target = pillLeft - (containerWidth / 2) + (pillWidth / 2);
+      container.scrollTo({ left: Math.max(0, target), behavior: 'smooth' });
+    },
+
     observe() {
       const sections = document.querySelectorAll('.category-section');
       const pills = document.querySelectorAll('.nav-pills button[data-target]');
       if (!sections.length || !pills.length) return;
 
+      const self = this;
       const observer = new IntersectionObserver(entries => {
         entries.forEach(entry => {
           if (entry.isIntersecting) {
             const id = entry.target.dataset.category;
+            let activePill = null;
             pills.forEach(btn => {
-              btn.classList.toggle('active', btn.dataset.target === `cat-${id}`);
+              const isActive = btn.dataset.target === `cat-${id}`;
+              btn.classList.toggle('active', isActive);
+              if (isActive) activePill = btn;
             });
+            if (activePill) self._scrollPillIntoView(activePill);
           }
         });
       }, { rootMargin: '-80px 0px -60% 0px', threshold: 0 });
