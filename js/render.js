@@ -2,15 +2,8 @@
 (function () {
   'use strict';
 
-  const ICONS = {};
-
-  function loadIcon(name) {
-    if (ICONS[name] !== undefined) return ICONS[name];
-    const sym = document.querySelector(`#icon-${name}`);
-    if (!sym) { ICONS[name] = ''; return ''; }
-    const vb = sym.getAttribute('viewBox') || '0 0 24 24';
-    ICONS[name] = `<svg class="category-icon" viewBox="${vb}" width="24" height="24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><use href="#icon-${name}"/></svg>`;
-    return ICONS[name];
+  function loadIcon(iconClass) {
+    return `<i class="fa-solid ${iconClass} category-icon"></i>`;
   }
 
   function itemHTML(item, lang) {

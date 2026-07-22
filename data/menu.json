@@ -6,7 +6,7 @@
   "categories": [
     {
       "id": "petit-dejeuner",
-      "icon": "croissant",
+      "icon": "fa-mug-hot",
       "name": { "fr": "Petit Déjeuner", "ar": "الفطور", "es": "Desayuno" },
       "items": [
         {
@@ -96,7 +96,7 @@
     },
     {
       "id": "croques",
-      "icon": "assiette",
+      "icon": "fa-utensils",
       "name": { "fr": "Croques", "ar": "الكروك", "es": "Croques" },
       "items": [
         {
@@ -123,7 +123,7 @@
     },
     {
       "id": "crepes-sucrees",
-      "icon": "crepe",
+      "icon": "fa-cookie",
       "name": { "fr": "Crêpes Sucrées", "ar": "كريب حلو", "es": "Crepes Dulces" },
       "items": [
         {
@@ -190,7 +190,7 @@
     },
     {
       "id": "crepes-salees",
-      "icon": "crepe",
+      "icon": "fa-cookie",
       "name": { "fr": "Crêpes Salées", "ar": "كريب مالح", "es": "Crepes Saladas" },
       "items": [
         {
@@ -237,7 +237,7 @@
     },
     {
       "id": "gaufres",
-      "icon": "gaufre",
+      "icon": "fa-cookie",
       "name": { "fr": "Gaufres", "ar": "الوافل", "es": "Gofres" },
       "items": [
         {
@@ -274,7 +274,7 @@
     },
     {
       "id": "desserts",
-      "icon": "dessert",
+      "icon": "fa-ice-cream",
       "name": { "fr": "Desserts", "ar": "الحلويات", "es": "Postres" },
       "items": [
         {
@@ -301,7 +301,7 @@
     },
     {
       "id": "tendance-dubai",
-      "icon": "dessert",
+      "icon": "fa-cake-candles",
       "name": { "fr": "Tendance Dubaï & Gourmandises", "ar": "موضة دبي والحلويات الفاخرة", "es": "Tendencia Dubái y Delicias" },
       "items": [
         {
@@ -328,7 +328,7 @@
     },
     {
       "id": "specialites-orientales",
-      "icon": "flamme",
+      "icon": "fa-fire",
       "name": { "fr": "Spécialités Orientales", "ar": "أطباق شرقية", "es": "Especialidades Orientales" },
       "items": [
         {
@@ -345,7 +345,7 @@
     },
     {
       "id": "milkshake",
-      "icon": "verre",
+      "icon": "fa-blender",
       "name": { "fr": "Milkshake", "ar": "ميلك شيك", "es": "Batidos" },
       "items": [
         {
@@ -372,7 +372,7 @@
     },
     {
       "id": "jus",
-      "icon": "feuille",
+      "icon": "fa-lemon",
       "name": { "fr": "Jus", "ar": "العصائر", "es": "Zumos" },
       "items": [
         {
@@ -419,7 +419,7 @@
     },
     {
       "id": "boissons",
-      "icon": "verre",
+      "icon": "fa-bottle-water",
       "name": { "fr": "Boissons", "ar": "المشروبات", "es": "Bebidas" },
       "items": [
         {

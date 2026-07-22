@@ -282,9 +282,9 @@ h3 { font-size: 1.125rem; }
   left: 12px;
   top: 50%;
   transform: translateY(-50%);
-  width: 18px;
-  height: 18px;
+  font-size: 16px;
   color: var(--color-text-secondary);
+  pointer-events: none;
 }
 
 [dir="rtl"] .search-icon {
@@ -370,10 +370,15 @@ h3 { font-size: 1.125rem; }
 }
 
 .category-medallion svg,
-.category-medallion .category-icon {
+.category-medallion .category-icon,
+.category-medallion i {
+  font-size: 24px;
   width: 24px;
   height: 24px;
   color: var(--color-gold);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .category-title-block {
@@ -563,9 +568,8 @@ h3 { font-size: 1.125rem; }
   color: var(--color-bg-dark);
 }
 
-.back-to-top svg {
-  width: 20px;
-  height: 20px;
+.back-to-top i {
+  font-size: 18px;
 }
 
 /* ============================================
